@@ -1,7 +1,8 @@
 ## Interface: 11201
-## Title: [ |cFFFFFFFFWM|r ] |cFF11A6ECT-OoM|r |cFF7FFF7Fv1.0.0 (Beta)|r
+## Title: [ |cFFFFFFFFWM|r ] |cFF11A6ECT-OoM|r |cFF7FFF7Fv1.18|r
 ## Author: Mikhail Palagin (Wht Mst)
-## Version: 1.0.0 Beta
+## Version: 1.18
 ## Notes: |cFF11A6ECT-OoM|r is a simple Out of Mana announcer addon for |cff00ff00Turtle WoW|r. Made with love by Wht Mst.
+
 
 T-OoM.lua
