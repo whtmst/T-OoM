@@ -8,6 +8,7 @@ tests/
 # IDE files
 .vscode/
 .idea/
+.zed/
 
 # OS generated files
 .DS_Store
