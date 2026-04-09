@@ -1,0 +1,37 @@
+## Interface: 11200
+## Title: [ |cFFFFFFFFWM|r ] |cFF11A6ECT-OoM|r |cFF7FFF7Fv2.0.0|r
+## Author: Misha (Wht Mst) | Mikhail Palagin
+## Version: 2.0.0
+## Notes: |cFF11A6ECT-OoM|r - Out of Mana announcer. Made for |cff00ff00Turtle WoW|r with love by Misha (Wht Mst).
+## SavedVariablesPerCharacter: T_OoM_Config
+
+# ============================================================================
+# Localization
+# ============================================================================
+Locales\enUS.lua
+Locales\ruRU.lua
+
+# ============================================================================
+# Core
+# ============================================================================
+Core\SavedVariables.lua
+Core\Commands.lua
+
+# ============================================================================
+# UI
+# ============================================================================
+UI\Widgets.lua
+UI\Tooltip.lua
+UI\MinimapButton.lua
+UI\ConfigWindow.lua
+
+# ============================================================================
+# Modules
+# ============================================================================
+Modules\ManaMonitor.lua
+Modules\UIDisplay.lua
+
+# ============================================================================
+# Main coordinator (must be last)
+# ============================================================================
+T-OoM.lua
